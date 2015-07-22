@@ -1,8 +1,13 @@
 {
     "name": "node-echo",
+    "version": "1.0.0",
     "description": "command line echo",
-    "main": "./lib/echo.js",
     "dependencies": {
         "argv": "0.0.2"
+    },
+    "main": "./lib/echo.js",
+    "bin" : {
+        "node-echo": "./bin/node-echo"
     }
+    
 }
