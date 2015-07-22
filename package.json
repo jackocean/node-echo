@@ -1,6 +1,7 @@
 {
     "name": "node-echo",
     "version": "1.0.0",
+    "license": "MIT",
     "description": "command line echo",
     "dependencies": {
         "argv": "0.0.2"
