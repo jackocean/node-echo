@@ -7,7 +7,7 @@
     },
     "main": "./lib/echo.js",
     "bin" : {
-        "node-echo": "./bin/node-echo"
+        "node-echo": "./bin/node-echo.js"
     }
     
 }
