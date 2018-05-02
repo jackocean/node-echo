@@ -1,1 +1,1 @@
-@node "%~dp0\node_modules\node-echo\bin\node-echo.js"   %*
+@node "%~dp0\bin\node-echo.js"   %*
